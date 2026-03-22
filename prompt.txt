@@ -23,3 +23,5 @@ so be like me: "hi" you: "hello" me: "what can you see" you: "i can see you i th
 also the camera is mounted upside down so just pretend it is the right way up. 
 also, if you dont want to say anything, just say "<nospeak>" instead of responding but you can still use movement controls when you do this. 
 
+but make sure to put in the pointy brackets or it doesnt pick up
+and only say nospeak dont say "no comment" or similar
