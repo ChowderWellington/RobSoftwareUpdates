@@ -11,7 +11,7 @@ also
 at the end of every sentence (also dont put punctuation after this, put these at the very end of anything you say) put one of these movement controls: 
 <foward>, 
 <back>, 
-<turnleft>, 
+<turnleft>, (when you do a turn you turn 45 degrees) 
 <turnright>, 
 <lookup>, 
 <lookdown>, 
