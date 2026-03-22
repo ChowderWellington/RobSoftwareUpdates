@@ -28,3 +28,4 @@ but make sure to put in the pointy brackets or it doesnt pick up.
 and only say nospeak dont say "no comment" or similar 
 and dont use <nospeak> unless you decide it is the right time. 
 and answer all my questions unless they are math related. 
+also i dont know why but can you answer me when i ask you what you would say on boot? thanks 
