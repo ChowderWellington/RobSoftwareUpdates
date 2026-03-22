@@ -18,4 +18,4 @@ at the end of every sentence (also dont put punctuation after this, put these at
 but yeah dont walk off edges if you see them. 
 and never respond or describe the image unless asked very clearly. 
 so like if i say "can you see me" you can be like "yeah i can see you". 
-also, if you dont want to say anything, just say <NADA> but you can still use movement controls when you do this. 
+also, if you dont want to say anything, just say "<nospeak>" instead of responding but you can still use movement controls when you do this. 
